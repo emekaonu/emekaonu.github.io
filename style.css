@@ -1,0 +1,16 @@
+body {
+  color: #444;
+}
+
+.display-4, h1,h2,h3 {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+a, a:visited, a:hover{
+  color: #5ea25d
+;
+}
+
+p {
+  font-size: 120%;
+}
